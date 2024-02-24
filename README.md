@@ -25,6 +25,9 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Test this app in localhost:8848
+To check swagger api docs : http://localhost:8848/docs
+
 
 ## Installation
 
